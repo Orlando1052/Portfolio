@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body
+{
+    width: 100%;
+    height: 100%;
+}
+
+
+#root {
+    --primaria: rgb(64,64,64)    ;
+    --texto: 	#f2f2f2;
+    --background: rgb(128, 128, 128)	;
+    --backgroundone: rgb(6, 6, 11);
+
+}
