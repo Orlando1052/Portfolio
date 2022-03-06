@@ -13,10 +13,6 @@
 #icontel{
     list-style: url("https://img.icons8.com/ios-filled/20/000000/cell-phone.png");
 }
-#icongit {
-    list-style: url("https://img.icons8.com/ios-filled/20/000000/github.png");
-}
-
 .form{
     list-style: url("https://img.icons8.com/office/20/000000/training.png");
 }
@@ -30,4 +26,7 @@
 }
 #iconlink{
     list-style: url("https://img.icons8.com/ios/30/000000/linkedin.png");
+}
+#icongit {
+    list-style: url("https://img.icons8.com/ios-filled/30/000000/github.png");
 }
