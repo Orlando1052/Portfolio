@@ -4,9 +4,6 @@ main{
    
     color: var(--texto);
 }
-
-
-
 header{
     display: flex;
     background-color:var(--primaria);
@@ -41,6 +38,7 @@ header{
     align-items:center;
     width: 100%;
     margin-left: 350px;
+    padding: 0.5em;
     
 
 }
@@ -79,5 +77,31 @@ section:nth-child(odd){
     background-color: var(--backgroundone);
     color: var(--texto);
 
+}
+
+#sectionone{
+    display: flex;
+    flex-direction: row;
+    height:200px ;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 20px;
+    font-family: 'Fredoka', sans-serif;
+    
+}
+
+#sectiontwo{
+
+    display: flex;
+    flex-direction: row;
+    height:200px ;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 20px;
+    font-family: 'Fredoka', sans-serif;
 }
 
