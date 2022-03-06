@@ -18,8 +18,31 @@ header{
 }
 
 #orlando{
-    
+
     font-family: 'Hubballi', cursive;
+}
+#orlandob{
+    display: flex;
+    font-family: 'Signika', sans-serif;
+    font-size: 50px;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10%;
+    margin-top: 20%;
+
+}
+#treinee{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10%;
+}
+#imagem{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    width: 100%;
+    margin-left: 350px;
+    
+
 }
 
 .nav {
@@ -30,6 +53,13 @@ header{
     justify-content: space-between;
     margin-left: 65%;    
     font-family: 'Roboto', sans-serif;
+}
+
+#parteone{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    
 }
 a{
     color: var(--texto);
@@ -43,9 +73,6 @@ section{
 section:nth-child(even){
     background-color: var(--background);
     
-
-    
-
 }
 
 section:nth-child(odd){
@@ -53,3 +80,4 @@ section:nth-child(odd){
     color: var(--texto);
 
 }
+
