@@ -63,6 +63,13 @@ a{
     color: var(--texto);
 }
 
+a:link {text-decoration: none;}
+a:hover {
+    font-size: 17px;
+    color: #fff;
+    transition: .4s ease;
+}
+
 section{
     width: 100%;
     height: 500px;
